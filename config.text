@@ -1,0 +1,16 @@
+# 测试环境 服务器包名、gitlab分支
+TEST_PACKAGE=vision
+TEST_BRANCH=develop
+
+# 预发环境 服务器包名、gitlab分支
+PRE_PACKAGE=vision
+PRE_BRANCH=pre
+
+# 生产环境 服务器包名、gitlab分支
+PROD_PACKAGE=vision
+PROD_BRANCH=main
+
+
+# node版本
+NODE_VERSION=16.14.0
+NODE_TOOL=pnpm
