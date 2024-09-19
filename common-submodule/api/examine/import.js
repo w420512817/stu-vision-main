@@ -25,17 +25,7 @@ export function submitImportTask(params) {
   };
   return defHttp.post({ url: Interface[appType], params });
 }
-export function getTaskProgress(params) {
-  const { appType } = useApplicationStore();
-  const Interface = {
-    [AppTypeEnum.VISION]: `${eyesight}/screen/import/getTaskProgress`,
-    [AppTypeEnum.CARIES]: `${caries}/import/caries/getTaskProgress`,
-    [AppTypeEnum.CHECKUP]: `${checkup}/import/checkup/getTaskProgress`,
-    [AppTypeEnum.PHYSICAL]: `${physicalTest}/import/physical/getTaskProgress`,
-    [AppTypeEnum.SPINE]: `${spine}/import/spine/getTaskProgress`
-  };
-  return defHttp.get({ url: Interface[appType], params });
-}
+export async function getTaskProgress() {}
 export function cancelImportTask(params) {
   const { appType } = useApplicationStore();
   const Interface = {
