@@ -4,7 +4,7 @@ export const useReportStore = defineStore('report-store', {
   state: () => ({
     planId: '',
     areaId: '',
-    areaLevel: '',
+    areaLevel: '1',
     areaName: '',
     schoolId: '',
     schoolType: '',
