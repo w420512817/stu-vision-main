@@ -256,26 +256,26 @@ function goReport() {
   // 市级报告9032	查看报告9033	打印报告9034
   // 区级报告9035	查看报告9036	打印报告9037
   // 学校报告9038	查看报告9039	打印报告9040
-  // formRef.value.validate(async errors => {
-  //   if (!errors) {
-  //     console.log('formValue', formValue);
-  //     let { areaLevel } = formValue;
-  //     if (areaLevel == 2 && (!hasPermission(9032) || !hasPermission(9033))) {
-  //       window.$message.error('无查看市报告的权限');
-  //       return false;
-  //     }
-  //     if (areaLevel == 3 && (!hasPermission(9035) || !hasPermission(9036))) {
-  //       window.$message.error('无查看区报告的权限');
-  //       return false;
-  //     }
-  //     if (areaLevel == 4 && (!hasPermission(9038) || !hasPermission(9039))) {
-  //       window.$message.error('无查看学校报告的权限');
-  //       return false;
-  //     }
+  formRef.value.validate(async errors => {
+    if (!errors) {
+      console.log('formValue', formValue);
+      let { areaLevel } = formValue;
+      // if (areaLevel == 2 && (!hasPermission(9032) || !hasPermission(9033))) {
+      //   window.$message.error('无查看市报告的权限');
+      //   return false;
+      // }
+      // if (areaLevel == 3 && (!hasPermission(9035) || !hasPermission(9036))) {
+      //   window.$message.error('无查看区报告的权限');
+      //   return false;
+      // }
+      // if (areaLevel == 4 && (!hasPermission(9038) || !hasPermission(9039))) {
+      //   window.$message.error('无查看学校报告的权限');
+      //   return false;
+      // }
 
-  push({ path: '/report/report-view', query: formValue });
-  //   }
-  // });
+      push({ path: '/report/report-view', query: formValue });
+    }
+  });
 }
 </script>
 
