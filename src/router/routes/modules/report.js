@@ -1,3 +1,9 @@
+/*
+ * @Author: wjq-work\wjq wjq4416@163.com
+ * @Date: 2024-09-18 11:51:40
+ * @LastEditors: wjq-work\wjq
+ * @LastEditTime: 2024-09-20 11:13:09
+ */
 const report = {
   path: '/report',
   name: 'Report ',
@@ -53,7 +59,9 @@ const report = {
       activeMenu: '/report/report-select',
       component: () => import('@/views/report/cus-report/index.vue'),
       meta: {
-        title: '自定义报告'
+        title: '自定义报告',
+        hideTab: true,
+        hideMenu: true
       }
     }
   ]
