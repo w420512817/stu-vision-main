@@ -2168,7 +2168,7 @@ export default [
             noMyopiaRate: 0.2254,
             noMyopiaStdCount: '23',
             prefixName: '小学',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             sexMyopiaTypeInfo: [
               {
                 manMyopiaRate: 0.746,
@@ -2244,7 +2244,7 @@ export default [
             noMyopiaRate: 0.2156,
             noMyopiaStdCount: '22',
             prefixName: '小学',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             sexMyopiaTypeInfo: [
               {
                 manMyopiaRate: 0.7692,
@@ -2320,7 +2320,7 @@ export default [
             noMyopiaRate: 0.1759,
             noMyopiaStdCount: '19',
             prefixName: '小学',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             sexMyopiaTypeInfo: [
               {
                 manMyopiaRate: 0.8095,
@@ -2396,7 +2396,7 @@ export default [
             noMyopiaRate: 0.2136,
             noMyopiaStdCount: '25',
             prefixName: '小学',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             sexMyopiaTypeInfo: [
               {
                 manMyopiaRate: 0.8194,
@@ -2472,7 +2472,7 @@ export default [
             noMyopiaRate: 0.1944,
             noMyopiaStdCount: '21',
             prefixName: '小学',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             sexMyopiaTypeInfo: [
               {
                 manMyopiaRate: 0.7333,
@@ -2548,7 +2548,7 @@ export default [
             noMyopiaRate: null,
             noMyopiaStdCount: '110',
             prefixName: '小学',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             sexMyopiaTypeInfo: [
               {
                 manMyopiaRate: 0.7777,
@@ -2636,7 +2636,7 @@ export default [
           noMyopiaRate: 0.1759,
           noMyopiaStdCount: '19',
           prefixName: '小学',
-          schoolName: '西安实验小学',
+          schoolName: '‌合肥实验小学',
           sexMyopiaTypeInfo: [
             {
               manMyopiaRate: 0.8095,
@@ -2712,7 +2712,7 @@ export default [
           noMyopiaRate: 0.2136,
           noMyopiaStdCount: '25',
           prefixName: '小学',
-          schoolName: '西安实验小学',
+          schoolName: '‌合肥实验小学',
           sexMyopiaTypeInfo: [
             {
               manMyopiaRate: 0.8194,
@@ -2788,7 +2788,7 @@ export default [
           noMyopiaRate: 0.2254,
           noMyopiaStdCount: '23',
           prefixName: '小学',
-          schoolName: '西安实验小学',
+          schoolName: '‌合肥实验小学',
           sexMyopiaTypeInfo: [
             {
               manMyopiaRate: 0.746,
@@ -2864,7 +2864,7 @@ export default [
           noMyopiaRate: 0.2254,
           noMyopiaStdCount: '23',
           prefixName: '小学',
-          schoolName: '西安实验小学',
+          schoolName: '‌合肥实验小学',
           sexMyopiaTypeInfo: [
             {
               manMyopiaRate: 0.746,
@@ -2927,7 +2927,7 @@ export default [
         noMyopiaStdCount: '110',
         noMyopiaStdRate: null,
         prefixName: '小学',
-        schoolName: '西安实验小学',
+        schoolName: '‌合肥实验小学',
         sexMyopiaTypeInfo: [
           {
             manMyopiaRate: 0.7777,
@@ -3060,7 +3060,7 @@ export default [
             mediumMyopiaRate: 0.0837,
             myopiaRate: 0.7951,
             planId: '1283048021704448',
-            planName: '陕西省视力筛查计划',
+            planName: '安徽省视力筛查计划',
             womanHighMyopiaRate: 0.6956,
             womanLowMyopiaRate: 0.0362,
             womanMediumMyopiaRate: 0.0797,
@@ -3068,7 +3068,7 @@ export default [
           }
         ],
         prefixName: '小学',
-        schoolName: '西安实验小学',
+        schoolName: '‌合肥实验小学',
         studyYear: '2022'
       })
   },
@@ -3101,7 +3101,7 @@ export default [
             prefix: 2,
             prefixName: '小学',
             schoolId: '1280739653607168',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             studentMyopiaCorrectInfos: null,
             studyYear: '2022',
             udMyopiaRate: 0.7913,
@@ -3138,7 +3138,7 @@ export default [
             prefix: 2,
             prefixName: '小学',
             schoolId: '1280739653607168',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             studentMyopiaCorrectInfos: null,
             studyYear: '2022',
             udMyopiaRate: 0.7459,
@@ -3175,7 +3175,7 @@ export default [
             prefix: 2,
             prefixName: '小学',
             schoolId: '1280739653607168',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             studentMyopiaCorrectInfos: null,
             studyYear: '2022',
             udMyopiaRate: 0.7583,
@@ -3212,7 +3212,7 @@ export default [
             prefix: 2,
             prefixName: '小学',
             schoolId: '1280739653607168',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             studentMyopiaCorrectInfos: null,
             studyYear: '2022',
             udMyopiaRate: 0.6949,
@@ -3249,7 +3249,7 @@ export default [
             prefix: 2,
             prefixName: '小学',
             schoolId: '1280739653607168',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             studentMyopiaCorrectInfos: null,
             studyYear: '2022',
             udMyopiaRate: 0.7272,
@@ -3286,7 +3286,7 @@ export default [
             prefix: 2,
             prefixName: '小学',
             schoolId: '1280739653607168',
-            schoolName: '西安实验小学',
+            schoolName: '‌合肥实验小学',
             studentMyopiaCorrectInfos: null,
             studyYear: '2022',
             udMyopiaRate: 0.7432,
@@ -3321,7 +3321,7 @@ export default [
         prefix: 2,
         prefixName: '小学',
         schoolId: '1280739653607168',
-        schoolName: '西安实验小学',
+        schoolName: '‌合肥实验小学',
         studyYear: '2022',
         udMyopiaRate: 0.7432,
         udMyopiaStdCount: '443',

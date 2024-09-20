@@ -7,7 +7,7 @@ export default [
     method: 'get',
     response: () => {
       return resultSuccess({
-        city: '陕西省',
+        city: '安徽省',
         effectiveStdCount: '50077',
         highMyopiaRate: 0.6799,
         highMyopiaStdCount: '34049',
@@ -19,7 +19,7 @@ export default [
           manHighMyopiaStdCount: '1501',
           myopiaRate: 0.8028,
           myopiaStdCount: '3572',
-          region: '渭南市',
+          region: '蚌埠市',
           sexMyopiaTypeInfo: null,
           stdCount: '4449',
           womanHighMyopiaRate: 0.6923,
@@ -33,7 +33,7 @@ export default [
           manHighMyopiaStdCount: '1002',
           myopiaRate: 0.8032,
           myopiaStdCount: '2392',
-          region: '宝鸡市',
+          region: '亳州市',
           sexMyopiaTypeInfo: null,
           stdCount: '2978',
           womanHighMyopiaRate: 0.6752,
@@ -47,7 +47,7 @@ export default [
           manHighMyopiaStdCount: '1150',
           myopiaRate: 0.7796,
           myopiaStdCount: '2706',
-          region: '延安市',
+          region: '‌阜阳市',
           sexMyopiaTypeInfo: null,
           stdCount: '3471',
           womanHighMyopiaRate: 0.6766,
@@ -61,7 +61,7 @@ export default [
           manHighMyopiaStdCount: '1150',
           myopiaRate: 0.7796,
           myopiaStdCount: '2706',
-          region: '延安市',
+          region: '‌阜阳市',
           sexMyopiaTypeInfo: null,
           stdCount: '3471',
           womanHighMyopiaRate: 0.6766,
@@ -80,7 +80,7 @@ export default [
             manHighMyopiaStdCount: '1150',
             myopiaRate: 0.7796,
             myopiaStdCount: '2706',
-            region: '延安市',
+            region: '‌阜阳市',
             sexMyopiaTypeInfo: null,
             stdCount: '3471',
             womanHighMyopiaRate: 0.6766,
@@ -94,7 +94,7 @@ export default [
             manHighMyopiaStdCount: '1322',
             myopiaRate: 0.7975,
             myopiaStdCount: '3081',
-            region: '咸阳市',
+            region: '‌宿州市',
             sexMyopiaTypeInfo: null,
             stdCount: '3863',
             womanHighMyopiaRate: 0.6768,
@@ -108,7 +108,7 @@ export default [
             manHighMyopiaStdCount: '1152',
             myopiaRate: 0.7911,
             myopiaStdCount: '2777',
-            region: '榆林市',
+            region: '滁州市',
             sexMyopiaTypeInfo: null,
             stdCount: '3510',
             womanHighMyopiaRate: 0.6852,
@@ -122,7 +122,7 @@ export default [
             manHighMyopiaStdCount: '3002',
             myopiaRate: 0.8001,
             myopiaStdCount: '7293',
-            region: '西安市',
+            region: '‌合肥市',
             sexMyopiaTypeInfo: null,
             stdCount: '9114',
             womanHighMyopiaRate: 0.6812,
@@ -136,7 +136,7 @@ export default [
             manHighMyopiaStdCount: '995',
             myopiaRate: 0.7897,
             myopiaStdCount: '2382',
-            region: '安康市',
+            region: '六安市',
             sexMyopiaTypeInfo: null,
             stdCount: '3016',
             womanHighMyopiaRate: 0.6878,
@@ -150,7 +150,7 @@ export default [
             manHighMyopiaStdCount: '1051',
             myopiaRate: 0.7975,
             myopiaStdCount: '2387',
-            region: '汉中市',
+            region: '淮南市',
             sexMyopiaTypeInfo: null,
             stdCount: '2993',
             womanHighMyopiaRate: 0.6678,
@@ -164,7 +164,7 @@ export default [
             manHighMyopiaStdCount: '1002',
             myopiaRate: 0.8032,
             myopiaStdCount: '2392',
-            region: '宝鸡市',
+            region: '亳州市',
             sexMyopiaTypeInfo: null,
             stdCount: '2978',
             womanHighMyopiaRate: 0.6752,
@@ -178,7 +178,7 @@ export default [
             manHighMyopiaStdCount: '4776',
             myopiaRate: 0.7967,
             myopiaStdCount: '10897',
-            region: '商洛市',
+            region: '‌马鞍山市',
             sexMyopiaTypeInfo: null,
             stdCount: '13677',
             womanHighMyopiaRate: 0.685,
@@ -192,7 +192,7 @@ export default [
             manHighMyopiaStdCount: '1045',
             myopiaRate: 0.7968,
             myopiaStdCount: '2396',
-            region: '铜川市',
+            region: '‌淮北市',
             sexMyopiaTypeInfo: null,
             stdCount: '3007',
             womanHighMyopiaRate: 0.6824,
@@ -206,7 +206,7 @@ export default [
             manHighMyopiaStdCount: '1501',
             myopiaRate: 0.8028,
             myopiaStdCount: '3572',
-            region: '渭南市',
+            region: '蚌埠市',
             sexMyopiaTypeInfo: null,
             stdCount: '4449',
             womanHighMyopiaRate: 0.6923,
@@ -304,7 +304,7 @@ export default [
             professionalSchoolHighMyopiaRate: null,
             professionalSchoolMyopiaCount: '0',
             professionalSchoolMyopiaRate: null,
-            regionName: '临潼区',
+            regionName: '长丰区',
             undergraduateHighMyopiaCount: '0',
             undergraduateHighMyopiaRate: null,
             undergraduateMyopiaCount: '0',
@@ -347,7 +347,7 @@ export default [
             professionalSchoolHighMyopiaRate: null,
             professionalSchoolMyopiaCount: '0',
             professionalSchoolMyopiaRate: null,
-            regionName: '新城区',
+            regionName: '庐阳区',
             undergraduateHighMyopiaCount: '0',
             undergraduateHighMyopiaRate: null,
             undergraduateMyopiaCount: '0',
@@ -390,7 +390,7 @@ export default [
             professionalSchoolHighMyopiaRate: null,
             professionalSchoolMyopiaCount: '0',
             professionalSchoolMyopiaRate: null,
-            regionName: '雁塔区',
+            regionName: '肥东区',
             undergraduateHighMyopiaCount: '0',
             undergraduateHighMyopiaRate: null,
             undergraduateMyopiaCount: '0',
@@ -433,7 +433,7 @@ export default [
             professionalSchoolHighMyopiaRate: null,
             professionalSchoolMyopiaCount: '0',
             professionalSchoolMyopiaRate: null,
-            regionName: '未央区',
+            regionName: '包河区',
             undergraduateHighMyopiaCount: '0',
             undergraduateHighMyopiaRate: null,
             undergraduateMyopiaCount: '0',
@@ -476,7 +476,7 @@ export default [
             professionalSchoolHighMyopiaRate: null,
             professionalSchoolMyopiaCount: '0',
             professionalSchoolMyopiaRate: null,
-            regionName: '莲湖区',
+            regionName: '瑶海区',
             undergraduateHighMyopiaCount: '0',
             undergraduateHighMyopiaRate: null,
             undergraduateMyopiaCount: '0',
@@ -519,7 +519,7 @@ export default [
             professionalSchoolHighMyopiaRate: null,
             professionalSchoolMyopiaCount: '0',
             professionalSchoolMyopiaRate: null,
-            regionName: '长安区',
+            regionName: '庐江区',
             undergraduateHighMyopiaCount: '0',
             undergraduateHighMyopiaRate: null,
             undergraduateMyopiaCount: '0',
@@ -576,36 +576,36 @@ export default [
         messageList: [
           {
             highMaxRegionMyopiaRate: 0.6949,
-            highMaxRegionName: '长安区',
+            highMaxRegionName: '庐江区',
             highMinRegionMyopiaRate: 0.6721,
-            highMinRegionName: '未央区',
+            highMinRegionName: '包河区',
             highMyopiaRate: '0.6758',
             highMyopiaStdCount: 5500,
             maxRegionMyopiaRate: 0.7992,
-            maxRegionName: '雁塔区',
+            maxRegionName: '肥东区',
             minRegionMyopiaRate: 0.7711,
-            minRegionName: '长安区',
+            minRegionName: '庐江区',
             myopiaRate: '0.7965',
             myopiaStdCount: 6482,
             prefxName: '小学'
           },
           {
             highMaxRegionMyopiaRate: 0.6962,
-            highMaxRegionName: '临潼区',
+            highMaxRegionName: '长丰区',
             highMinRegionMyopiaRate: 0.6788,
-            highMinRegionName: '雁塔区',
+            highMinRegionName: '肥东区',
             highMyopiaRate: '0.6875',
             highMyopiaStdCount: 671,
             maxRegionMyopiaRate: 0.8388,
-            maxRegionName: '临潼区',
+            maxRegionName: '长丰区',
             minRegionMyopiaRate: 0.8231,
-            minRegionName: '雁塔区',
+            minRegionName: '肥东区',
             myopiaRate: '0.8309',
             myopiaStdCount: 811,
             prefxName: '初中'
           }
         ],
-        name: '西安市'
+        name: '‌合肥市'
       });
     }
   },
@@ -1181,7 +1181,7 @@ export default [
         areaMyopiaInfoList: [
           {
             areaId: '610104',
-            areaName: '莲湖区',
+            areaName: '瑶海区',
             highMyopiaRate: 0.6828,
             highMyopiaStdCount: '674',
             manHighMyopiaRate: 0.6493,
@@ -1200,7 +1200,7 @@ export default [
           },
           {
             areaId: '610116',
-            areaName: '长安区',
+            areaName: '庐江区',
             highMyopiaRate: 0.6949,
             highMyopiaStdCount: '82',
             manHighMyopiaRate: 0.6785,
@@ -1219,7 +1219,7 @@ export default [
           },
           {
             areaId: '610115',
-            areaName: '临潼区',
+            areaName: '长丰区',
             highMyopiaRate: 0.6962,
             highMyopiaStdCount: '337',
             manHighMyopiaRate: 0.7085,
@@ -1238,7 +1238,7 @@ export default [
           },
           {
             areaId: '610112',
-            areaName: '未央区',
+            areaName: '包河区',
             highMyopiaRate: 0.6721,
             highMyopiaStdCount: '654',
             manHighMyopiaRate: 0.6816,
@@ -1257,7 +1257,7 @@ export default [
           },
           {
             areaId: '610113',
-            areaName: '雁塔区',
+            areaName: '肥东区',
             highMyopiaRate: 0.6818,
             highMyopiaStdCount: '1018',
             manHighMyopiaRate: 0.6781,
@@ -1276,7 +1276,7 @@ export default [
           },
           {
             areaId: '610102',
-            areaName: '新城区',
+            areaName: '庐阳区',
             highMyopiaRate: 0.6732,
             highMyopiaStdCount: '3406',
             manHighMyopiaRate: 0.6704,
@@ -1313,7 +1313,7 @@ export default [
             womanStdCount: '4652'
           }
         ],
-        areaName: '西安市',
+        areaName: '‌合肥市',
         gradeMyopiaInfoList: [
           {
             gradeId: '921830381248271',
@@ -1493,8 +1493,8 @@ export default [
         manMyopiaRate: 0.8007,
         manMyopiaStdCount: '3573',
         manStdCount: '4462',
-        maxHighMyopiaRateDiffArea: '莲湖区',
-        maxMyopiaRateDiffArea: '临潼区',
+        maxHighMyopiaRateDiffArea: '瑶海区',
+        maxMyopiaRateDiffArea: '长丰区',
         myopiaDiffRate: 0.0264,
         schoolTypeMyopiaRateGrowthList: [
           {
@@ -1627,7 +1627,7 @@ export default [
             cityHighCount: '337',
             cityHighMyopiaRate: 0.6962,
             cityMyopiaRate: 0.8388,
-            name: '临潼区',
+            name: '长丰区',
             townCount: '0',
             townHighCount: '0',
             townHighMyopiaRate: 0,
@@ -1638,7 +1638,7 @@ export default [
             cityHighCount: '3406',
             cityHighMyopiaRate: 0.6732,
             cityMyopiaRate: 0.7969,
-            name: '新城区',
+            name: '庐阳区',
             townCount: '0',
             townHighCount: '0',
             townHighMyopiaRate: 0,
@@ -1649,7 +1649,7 @@ export default [
             cityHighCount: '1018',
             cityHighMyopiaRate: 0.6818,
             cityMyopiaRate: 0.807,
-            name: '雁塔区',
+            name: '肥东区',
             townCount: '0',
             townHighCount: '0',
             townHighMyopiaRate: 0,
@@ -1660,7 +1660,7 @@ export default [
             cityHighCount: '654',
             cityHighMyopiaRate: 0.6721,
             cityMyopiaRate: 0.7923,
-            name: '未央区',
+            name: '包河区',
             townCount: '0',
             townHighCount: '0',
             townHighMyopiaRate: 0,
@@ -1671,7 +1671,7 @@ export default [
             cityHighCount: '674',
             cityHighMyopiaRate: 0.6828,
             cityMyopiaRate: 0.7983,
-            name: '莲湖区',
+            name: '瑶海区',
             townCount: '0',
             townHighCount: '0',
             townHighMyopiaRate: 0,
@@ -1682,7 +1682,7 @@ export default [
             cityHighCount: '0',
             cityHighMyopiaRate: 0,
             cityMyopiaRate: 0,
-            name: '长安区',
+            name: '庐江区',
             townCount: '91',
             townHighCount: '82',
             townHighMyopiaRate: 0.6949,
@@ -1713,7 +1713,7 @@ export default [
           townMyopiaRate: 0.7711,
           townStudentCount: '118'
         },
-        name: '西安市'
+        name: '‌合肥市'
       };
       return resultSuccess(data);
     }
@@ -1767,7 +1767,7 @@ export default [
             schoolTypeName: '常规'
           }
         ],
-        name: '西安市'
+        name: '‌合肥市'
       };
       return resultSuccess(data);
     }
@@ -1828,7 +1828,7 @@ export default [
     method: 'get',
     response: () => {
       let data = {
-        city: '西安市',
+        city: '‌合肥市',
         contactLensStdCount: '2577',
         correctMyopiaRate: 0.0534,
         correctMyopiaStdCount: '582',
@@ -2177,7 +2177,7 @@ export default [
             myopiaStdCount: '1804',
             okLensStdCount: '602',
             otherRate: 0,
-            region: '雁塔区',
+            region: '肥东区',
             regionId: '610113',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.73,
@@ -2208,7 +2208,7 @@ export default [
             myopiaStdCount: '1199',
             okLensStdCount: '350',
             otherRate: 0,
-            region: '莲湖区',
+            region: '瑶海区',
             regionId: '610104',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7114,
@@ -2239,7 +2239,7 @@ export default [
             myopiaStdCount: '91',
             okLensStdCount: '25',
             otherRate: 0,
-            region: '长安区',
+            region: '庐江区',
             regionId: '610116',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.6923,
@@ -2270,7 +2270,7 @@ export default [
             myopiaStdCount: '622',
             okLensStdCount: '203',
             otherRate: 0,
-            region: '临潼区',
+            region: '长丰区',
             regionId: '610115',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7202,
@@ -2301,7 +2301,7 @@ export default [
             myopiaStdCount: '5970',
             okLensStdCount: '1843',
             otherRate: 0,
-            region: '新城区',
+            region: '庐阳区',
             regionId: '610102',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7211,
@@ -2332,7 +2332,7 @@ export default [
             myopiaStdCount: '1208',
             okLensStdCount: '344',
             otherRate: 0,
-            region: '未央区',
+            region: '包河区',
             regionId: '610112',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.6978,
@@ -2375,7 +2375,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '未央区',
+            region: '包河区',
             regionId: '610112'
           },
           {
@@ -2383,7 +2383,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '新城区',
+            region: '庐阳区',
             regionId: '610102'
           },
           {
@@ -2391,7 +2391,7 @@ export default [
             hyperopiaReservesEnoughNum: '2',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '长安区',
+            region: '庐江区',
             regionId: '610116'
           },
           {
@@ -2399,7 +2399,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '雁塔区',
+            region: '肥东区',
             regionId: '610113'
           },
           {
@@ -2407,7 +2407,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '莲湖区',
+            region: '瑶海区',
             regionId: '610104'
           },
           {
@@ -2415,7 +2415,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '临潼区',
+            region: '长丰区',
             regionId: '610115'
           }
         ],
@@ -2572,7 +2572,7 @@ export default [
             myopiaMyopiaRate: 0.8224
           }
         ],
-        name: '西安市'
+        name: '‌合肥市'
       };
       return resultSuccess(data);
     }
@@ -2690,7 +2690,7 @@ export default [
             visionNum: 465
           }
         ],
-        name: '西安市'
+        name: '‌合肥市'
       };
       return resultSuccess(data);
     }
@@ -2714,7 +2714,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '1113',
             poorVisionRate: 0.9628,
-            region: '未央区',
+            region: '包河区',
             regionId: '610112'
           },
           {
@@ -2729,7 +2729,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '5408',
             poorVisionRate: 0.9559,
-            region: '新城区',
+            region: '庐阳区',
             regionId: '610102'
           },
           {
@@ -2744,7 +2744,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '84',
             poorVisionRate: 0.9032,
-            region: '长安区',
+            region: '庐江区',
             regionId: '610116'
           },
           {
@@ -2759,7 +2759,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '1574',
             poorVisionRate: 0.955,
-            region: '雁塔区',
+            region: '肥东区',
             regionId: '610113'
           },
           {
@@ -2774,7 +2774,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '1092',
             poorVisionRate: 0.9495,
-            region: '莲湖区',
+            region: '瑶海区',
             regionId: '610104'
           },
           {
@@ -2789,7 +2789,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '523',
             poorVisionRate: 0.9561,
-            region: '临潼区',
+            region: '长丰区',
             regionId: '610115'
           },
           {
@@ -5216,7 +5216,7 @@ export default [
             data: 19.75
           }
         ],
-        name: '西安市'
+        name: '‌合肥市'
       };
       return resultSuccess(data);
     }
@@ -5229,7 +5229,7 @@ export default [
       let data = {
         astigmatismRate: 0,
         astigmatismStdCount: '0',
-        city: '西安市',
+        city: '‌合肥市',
         cityId: '610100',
         hyperopiaRate: 0.2948,
         hyperopiaStdCount: '4015',
@@ -5243,7 +5243,7 @@ export default [
             hyperopiaStdCount: '654',
             myopiaRate: 0.8017,
             myopiaStdCount: '1804',
-            region: '雁塔区',
+            region: '肥东区',
             regionId: '610113',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9351,
@@ -5256,7 +5256,7 @@ export default [
             hyperopiaStdCount: '443',
             myopiaRate: 0.7993,
             myopiaStdCount: '1199',
-            region: '莲湖区',
+            region: '瑶海区',
             regionId: '610104',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9313,
@@ -5269,7 +5269,7 @@ export default [
             hyperopiaStdCount: '41',
             myopiaRate: 0.7711,
             myopiaStdCount: '91',
-            region: '长安区',
+            region: '庐江区',
             regionId: '610116',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.8983,
@@ -5282,7 +5282,7 @@ export default [
             hyperopiaStdCount: '199',
             myopiaRate: 0.8293,
             myopiaStdCount: '622',
-            region: '临潼区',
+            region: '长丰区',
             regionId: '610115',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.94,
@@ -5295,7 +5295,7 @@ export default [
             hyperopiaStdCount: '2236',
             myopiaRate: 0.796,
             myopiaStdCount: '5970',
-            region: '新城区',
+            region: '庐阳区',
             regionId: '610102',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9316,
@@ -5308,7 +5308,7 @@ export default [
             hyperopiaStdCount: '442',
             myopiaRate: 0.8053,
             myopiaStdCount: '1208',
-            region: '未央区',
+            region: '包河区',
             regionId: '610112',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9406,

@@ -199,7 +199,7 @@ export default [
           planId: '1283048021704448',
           planMode: null,
           planModeLaber: '',
-          planName: '陕西省视力筛查计划',
+          planName: '安徽省视力筛查计划',
           planRange: null,
           planRangeLaber: null,
           planStatus: null,
@@ -243,7 +243,7 @@ export default [
         poorVisionCount: '119',
         poorVisionRate: 0.9754,
         schoolId: '1280739653607168',
-        schoolName: '西安实验小学',
+        schoolName: '‌合肥实验小学',
         studentPoorVisionInfoList: [
           {
             astigmiaStatus: '0',
@@ -1090,7 +1090,7 @@ export default [
         noMyopiaRate: 0.2254,
         noMyopiaStdCount: '23',
         prefixName: '小学',
-        schoolName: '西安实验小学',
+        schoolName: '‌合肥实验小学',
         sexMyopiaTypeInfo: [
           {
             manMyopiaRate: 0.746,
@@ -1609,7 +1609,7 @@ export default [
         prefix: 2,
         prefixName: '小学',
         schoolId: '1280739653607168',
-        schoolName: '西安实验小学',
+        schoolName: '‌合肥实验小学',
         studentMyopiaCorrectInfos: [
           {
             isCorrectMyopia: false,
@@ -5510,7 +5510,7 @@ export default [
         hyperopiaReservesNotEnough: '0',
         hyperopiaReservesNotEnoughNum: '0',
         schoolId: '1280739653607168',
-        schoolName: '西安实验小学',
+        schoolName: '‌合肥实验小学',
         studentHyperopiaReserveInfos: [
           {
             hyperopiaReservesStatus: null,
@@ -6002,7 +6002,7 @@ export default [
             mediumMyopiaRate: 0.0882,
             myopiaRate: 0.7745,
             planId: '1283048021704448',
-            planName: '陕西省视力筛查计划',
+            planName: '安徽省视力筛查计划',
             womanHighMyopiaRate: 0.6923,
             womanLowMyopiaRate: 0.0512,
             womanMediumMyopiaRate: 0.0769,
@@ -6010,7 +6010,7 @@ export default [
           }
         ],
         prefixName: '小学',
-        schoolName: '西安实验小学',
+        schoolName: '‌合肥实验小学',
         studyYear: '2022'
       })
   }

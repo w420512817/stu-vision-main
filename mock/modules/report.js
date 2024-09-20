@@ -40,7 +40,7 @@ export default [
           analysisTime: '2024-09-20 09:15:39',
           areaName: null,
           endTime: null,
-          equipment: '',
+          equipment: '液晶视力表 验光仪',
           noteContent:
             '本报表计算方法来自国家卫生健康委员会，近视判断标准为：裸眼视力＜5.0且非睫状肌麻痹下电脑验光等效球镜度数＜-0.50D；同时，确认为佩戴隐形眼镜和角膜塑形镜的受检者计入近视样本。因器质性眼病变、损伤等原因导致的单眼或双眼视力低下的学生不纳入统计分析，调查人数为数据清理之后的有效调查样本人数。',
           nounDefinition:
@@ -49,15 +49,15 @@ export default [
             '经统计分析，本班现有近视学生79人,近视率为77.45%,高度近视学生61人,高度近视率为59.80% ;按性别分类，男生有效筛查63人，近视学生47人，近视率为74.60%，高度近视率为53.96%;女生有效筛查39人，近视学生32人，近视率为82.05%，高度近视率为53.96%.女生近视率高于男生7.45%.',
           planMode: 1,
           planModeName: '计划模式',
-          planName: '陕西省视力筛查计划',
+          planName: '安徽省视力筛查计划',
           planRange: null,
           planType: 101,
           planYear: 2023,
           reportContentType: '400,425,405,430,410,435,415,436,420',
           schoolName: null,
-          screeningItem: null,
+          screeningItem: '',
           startTime: null,
-          title: '陕西省',
+          title: '安徽省',
           worker: ''
         };
       } else if (gradeId) {
@@ -65,7 +65,7 @@ export default [
           analysisTime: '2024-09-20 09:33:23',
           areaName: null,
           endTime: null,
-          equipment: '',
+          equipment: '液晶视力表 验光仪',
           noteContent:
             '本报表计算方法来自国家卫生健康委员会，近视判断标准为：裸眼视力＜5.0且非睫状肌麻痹下电脑验光等效球镜度数＜-0.50D；同时，确认为佩戴隐形眼镜和角膜塑形镜的受检者计入近视样本。因器质性眼病变、损伤等原因导致的单眼或双眼视力低下的学生不纳入统计分析，调查人数为数据清理之后的有效调查样本人数。',
           nounDefinition:
@@ -74,15 +74,15 @@ export default [
             '经统计分析，本年级现有近视学生427人,近视率为79.51%,高度近视学生356人,高度近视率为66.29% ;按性别分类，男生有效筛查261人，近视学生203人，近视率为77.77%，高度近视率为62.83%;女生有效筛查276人，近视学生224人，近视率为81.15%，高度近视率为62.83%.女生近视率高于男生3.38%.',
           planMode: 1,
           planModeName: '计划模式',
-          planName: '陕西省视力筛查计划',
+          planName: '安徽省视力筛查计划',
           planRange: null,
           planType: 101,
           planYear: 2023,
           reportContentType: '300,325,305,330,310,335,315,320,336',
           schoolName: null,
-          screeningItem: null,
+          screeningItem: '',
           startTime: null,
-          title: '陕西省',
+          title: '安徽省',
           worker: ''
         };
       } else {
@@ -91,7 +91,7 @@ export default [
             analysisTime: '2024-09-19 19:19:11',
             areaName: null,
             endTime: null,
-            equipment: '',
+            equipment: '液晶视力表 验光仪',
             noteContent:
               '本报表计算方法来自国家卫生健康委员会，近视判断标准为：裸眼视力＜5.0且非睫状肌麻痹下电脑验光等效球镜度数＜-0.50D；同时，确认为佩戴隐形眼镜和角膜塑形镜的受检者计入近视样本。因器质性眼病变、损伤等原因导致的单眼或双眼视力低下的学生不纳入统计分析，调查人数为数据清理之后的有效调查样本人数。',
             nounDefinition:
@@ -99,15 +99,15 @@ export default [
             outline: '',
             planMode: 1,
             planModeName: '计划模式',
-            planName: '陕西省视力筛查计划',
+            planName: '安徽省视力筛查计划',
             planRange: null,
             planType: 101,
             planYear: 2023,
             reportContentType: '10,15,20,25,30,35,40,45,50,60,65,70,75,80,81,90,5',
             schoolName: null,
-            screeningItem: null,
+            screeningItem: '',
             startTime: null,
-            title: '陕西省',
+            title: '安徽省',
             worker: null
           };
         } else if (areaId == '610100') {
@@ -115,7 +115,7 @@ export default [
             analysisTime: '2024-09-19 19:37:10',
             areaName: null,
             endTime: null,
-            equipment: '',
+            equipment: '液晶视力表 验光仪',
             noteContent:
               '本报表计算方法来自国家卫生健康委员会，近视判断标准为：裸眼视力＜5.0且非睫状肌麻痹下电脑验光等效球镜度数＜-0.50D；同时，确认为佩戴隐形眼镜和角膜塑形镜的受检者计入近视样本。因器质性眼病变、损伤等原因导致的单眼或双眼视力低下的学生不纳入统计分析，调查人数为数据清理之后的有效调查样本人数。',
             nounDefinition:
@@ -124,15 +124,15 @@ export default [
               '经统计分析，小学有近视学生6482人,近视率为79.65%,高度近视学生5500人,高度近视率为67.58%;初中有近视学生811人,近视率为83.09%,高度近视学生671人,高度近视率为68.75%;小学男女生近视率为79.68%/79.61%,初中男女生近视率为83.36%/82.84%,其中，小学男生近视率高于女生0.07%,初中男生近视率高于女生0.52%。',
             planMode: 1,
             planModeName: '计划模式',
-            planName: '陕西省视力筛查计划',
+            planName: '安徽省视力筛查计划',
             planRange: null,
             planType: 101,
             planYear: 2023,
             reportContentType: '5,15,10,30,45,70,75,50,35,25,40,60,20,81,90,65,80',
             schoolName: null,
-            screeningItem: null,
+            screeningItem: '',
             startTime: null,
-            title: '陕西省',
+            title: '安徽省',
             worker: null
           };
         } else if (areaId == '610102') {
@@ -140,7 +140,7 @@ export default [
             analysisTime: '2024-09-19 19:58:05',
             areaName: null,
             endTime: null,
-            equipment: '',
+            equipment: '液晶视力表 验光仪',
             noteContent:
               '本报表计算方法来自国家卫生健康委员会，近视判断标准为：裸眼视力＜5.0且非睫状肌麻痹下电脑验光等效球镜度数＜-0.50D；同时，确认为佩戴隐形眼镜和角膜塑形镜的受检者计入近视样本。因器质性眼病变、损伤等原因导致的单眼或双眼视力低下的学生不纳入统计分析，调查人数为数据清理之后的有效调查样本人数。',
             nounDefinition:
@@ -149,15 +149,15 @@ export default [
               '经统计分析，小学有近视学生4032人,近视率为79.69%,高度近视学生3406人,高度近视率为67.32%;小学男女生近视率为80.06%/79.34%,其中，小学男生近视率高于女生0.72%。',
             planMode: 1,
             planModeName: '计划模式',
-            planName: '陕西省视力筛查计划',
+            planName: '安徽省视力筛查计划',
             planRange: null,
             planType: 101,
             planYear: 2023,
             reportContentType: '105,110,115,120,130,135,140,145,155,160,165,170,180,175,190,195,196,197,198',
             schoolName: null,
-            screeningItem: null,
+            screeningItem: '',
             startTime: null,
-            title: '陕西省',
+            title: '安徽省',
             worker: null
           };
         } else {
@@ -165,7 +165,7 @@ export default [
             analysisTime: '2024-09-19 20:27:27',
             areaName: null,
             endTime: null,
-            equipment: '',
+            equipment: '液晶视力表 验光仪',
             noteContent:
               '本报表计算方法来自国家卫生健康委员会，近视判断标准为：裸眼视力＜5.0且非睫状肌麻痹下电脑验光等效球镜度数＜-0.50D；同时，确认为佩戴隐形眼镜和角膜塑形镜的受检者计入近视样本。因器质性眼病变、损伤等原因导致的单眼或双眼视力低下的学生不纳入统计分析，调查人数为数据清理之后的有效调查样本人数。',
             nounDefinition:
@@ -174,15 +174,15 @@ export default [
               '经统计分析，本校现有近视学生2410人,近视率为79.30%,高度近视学生2038人,高度近视率为67.06% ;按性别分类，男生有效筛查1500人，近视学生1175人，近视率为78.33%，高度近视率为65.60%;女生有效筛查1539人，近视学生1235人，近视率为80.24%，高度近视率为65.60%.女生近视率高于男生1.91%.',
             planMode: 1,
             planModeName: '计划模式',
-            planName: '陕西省视力筛查计划',
+            planName: '安徽省视力筛查计划',
             planRange: null,
             planType: 101,
             planYear: 2023,
             reportContentType: '235,205,215,220,225,230,255,256,250,245,256,210',
             schoolName: null,
-            screeningItem: null,
+            screeningItem: '',
             startTime: null,
-            title: '陕西省',
+            title: '安徽省',
             worker: ''
           };
         }
@@ -197,12 +197,12 @@ export default [
     method: 'get',
     response: () =>
       resultSuccess({
-        city: '西安市',
+        city: '‌合肥市',
         maxPeoplePrefix: '小学',
-        maxSchoolRegion: '新城区',
+        maxSchoolRegion: '庐阳区',
         maxSchoolRegionCount: '2',
         minPeoplePrefix: '初中',
-        minSchoolRegion: '莲湖区',
+        minSchoolRegion: '瑶海区',
         minSchoolRegionCount: '1',
         prefixPeopleRatio: '8.08:1',
         prefixSchoolCountInfoVO: {
@@ -314,7 +314,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '505'
             },
-            region: '莲湖区'
+            region: '瑶海区'
           },
           {
             maxPeoplePrefix: '小学',
@@ -372,7 +372,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '483'
             },
-            region: '未央区'
+            region: '包河区'
           },
           {
             maxPeoplePrefix: '初中',
@@ -430,7 +430,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '237'
             },
-            region: '临潼区'
+            region: '长丰区'
           },
           {
             maxPeoplePrefix: '小学',
@@ -488,7 +488,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '62'
             },
-            region: '长安区'
+            region: '庐江区'
           },
           {
             maxPeoplePrefix: '小学',
@@ -546,7 +546,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '794'
             },
-            region: '雁塔区'
+            region: '肥东区'
           },
           {
             maxPeoplePrefix: '小学',
@@ -604,7 +604,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '2571'
             },
-            region: '新城区'
+            region: '庐阳区'
           },
           {
             maxPeoplePrefix: null,
@@ -673,12 +673,12 @@ export default [
     method: 'get',
     response: () => {
       return resultSuccess({
-        city: '陕西省',
+        city: '安徽省',
         maxPeoplePrefix: '小学',
-        maxSchoolRegion: '商洛市',
+        maxSchoolRegion: '‌马鞍山市',
         maxSchoolRegionCount: '23',
         minPeoplePrefix: '初中',
-        minSchoolRegion: '铜川市',
+        minSchoolRegion: '‌淮北市',
         minSchoolRegionCount: '4',
         prefixPeopleRatio: '2.6:1',
         prefixSchoolCountInfoVO: {
@@ -790,7 +790,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '1502'
             },
-            region: '铜川市'
+            region: '‌淮北市'
           },
           {
             maxPeoplePrefix: '小学',
@@ -848,7 +848,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '1469'
             },
-            region: '汉中市'
+            region: '淮南市'
           },
           {
             maxPeoplePrefix: '小学',
@@ -906,7 +906,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '1512'
             },
-            region: '宝鸡市'
+            region: '亳州市'
           },
           {
             maxPeoplePrefix: '小学',
@@ -964,7 +964,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '1528'
             },
-            region: '安康市'
+            region: '六安市'
           },
           {
             maxPeoplePrefix: '小学',
@@ -1022,7 +1022,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '1732'
             },
-            region: '延安市'
+            region: '‌阜阳市'
           },
           {
             maxPeoplePrefix: '小学',
@@ -1080,7 +1080,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '1494'
             },
-            region: '咸阳市'
+            region: '‌宿州市'
           },
           {
             maxPeoplePrefix: '小学',
@@ -1138,7 +1138,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '1773'
             },
-            region: '榆林市'
+            region: '滁州市'
           },
           {
             maxPeoplePrefix: '小学',
@@ -1196,7 +1196,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '2262'
             },
-            region: '渭南市'
+            region: '蚌埠市'
           },
           {
             maxPeoplePrefix: '小学',
@@ -1254,7 +1254,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '4652'
             },
-            region: '西安市'
+            region: '‌合肥市'
           },
           {
             maxPeoplePrefix: '小学',
@@ -1312,7 +1312,7 @@ export default [
               universityWoManStdCount: '0',
               woManStdCount: '5690'
             },
-            region: '商洛市'
+            region: '‌马鞍山市'
           },
           {
             maxPeoplePrefix: null,
@@ -1470,7 +1470,7 @@ export default [
         ],
         plansPoorVisionInfoList: [
           {
-            planName: '陕西省视力筛查计划',
+            planName: '安徽省视力筛查计划',
             poorVisionRate: 0.9495
           }
         ],
@@ -18102,7 +18102,7 @@ export default [
             mediumMyopiaRate: 0.0678,
             myopiaRate: 0.7983,
             planId: '1283048021704448',
-            planName: '陕西省视力筛查计划',
+            planName: '安徽省视力筛查计划',
             womanHighMyopiaRate: 0.7148,
             womanLowMyopiaRate: 0.0415,
             womanMediumMyopiaRate: 0.0534,

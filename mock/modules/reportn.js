@@ -15,1184 +15,25 @@ export default [
                 haveScreeningNum: null,
                 level: 3,
                 regionId: '610102',
-                regionName: '新城区',
+                regionName: '庐阳区',
                 screeningNum: null,
                 stuCount: null
               }
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610103',
-              //   regionName: '碑林区',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610104',
-              //   regionName: '莲湖区',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610111',
-              //   regionName: '灞桥区',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610112',
-              //   regionName: '未央区',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610113',
-              //   regionName: '雁塔区',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610114',
-              //   regionName: '阎良区',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610115',
-              //   regionName: '临潼区',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610116',
-              //   regionName: '长安区',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610122',
-              //   regionName: '蓝田县',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610124',
-              //   regionName: '周至县',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610125',
-              //   regionName: '户县',
-              //   screeningNum: null,
-              //   stuCount: null
-              // },
-              // {
-              //   children: null,
-              //   gradeNum: null,
-              //   haveScreeningNum: null,
-              //   level: 3,
-              //   regionId: '610126',
-              //   regionName: '高陵县',
-              //   screeningNum: null,
-              //   stuCount: null
-              // }
             ],
             gradeNum: null,
             haveScreeningNum: null,
             level: 2,
             regionId: '610100',
-            regionName: '西安市',
+            regionName: '‌合肥市',
             screeningNum: null,
             stuCount: null
           }
-          // {
-          //   children: [
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610202',
-          //       regionName: '王益区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610203',
-          //       regionName: '印台区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610204',
-          //       regionName: '耀州区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610222',
-          //       regionName: '宜君县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     }
-          //   ],
-          //   gradeNum: null,
-          //   haveScreeningNum: null,
-          //   level: 2,
-          //   regionId: '610200',
-          //   regionName: '铜川市',
-          //   screeningNum: null,
-          //   stuCount: null
-          // },
-          // {
-          //   children: [
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610302',
-          //       regionName: '渭滨区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610303',
-          //       regionName: '金台区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610304',
-          //       regionName: '陈仓区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610322',
-          //       regionName: '凤翔县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610323',
-          //       regionName: '岐山县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610324',
-          //       regionName: '扶风县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610326',
-          //       regionName: '眉县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610327',
-          //       regionName: '陇县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610328',
-          //       regionName: '千阳县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610329',
-          //       regionName: '麟游县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610330',
-          //       regionName: '凤县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610331',
-          //       regionName: '太白县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     }
-          //   ],
-          //   gradeNum: null,
-          //   haveScreeningNum: null,
-          //   level: 2,
-          //   regionId: '610300',
-          //   regionName: '宝鸡市',
-          //   screeningNum: null,
-          //   stuCount: null
-          // },
-          // {
-          //   children: [
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610402',
-          //       regionName: '秦都区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610403',
-          //       regionName: '杨陵区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610404',
-          //       regionName: '渭城区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610422',
-          //       regionName: '三原县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610423',
-          //       regionName: '泾阳县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610424',
-          //       regionName: '乾县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610425',
-          //       regionName: '礼泉县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610426',
-          //       regionName: '永寿县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610427',
-          //       regionName: '彬县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610428',
-          //       regionName: '长武县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610429',
-          //       regionName: '旬邑县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610430',
-          //       regionName: '淳化县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610431',
-          //       regionName: '武功县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610481',
-          //       regionName: '兴平市',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     }
-          //   ],
-          //   gradeNum: null,
-          //   haveScreeningNum: null,
-          //   level: 2,
-          //   regionId: '610400',
-          //   regionName: '咸阳市',
-          //   screeningNum: null,
-          //   stuCount: null
-          // },
-          // {
-          //   children: [
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610502',
-          //       regionName: '临渭区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610521',
-          //       regionName: '华县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610522',
-          //       regionName: '潼关县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610523',
-          //       regionName: '大荔县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610524',
-          //       regionName: '合阳县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610525',
-          //       regionName: '澄城县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610526',
-          //       regionName: '蒲城县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610527',
-          //       regionName: '白水县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610528',
-          //       regionName: '富平县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610581',
-          //       regionName: '韩城市',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610582',
-          //       regionName: '华阴市',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     }
-          //   ],
-          //   gradeNum: null,
-          //   haveScreeningNum: null,
-          //   level: 2,
-          //   regionId: '610500',
-          //   regionName: '渭南市',
-          //   screeningNum: null,
-          //   stuCount: null
-          // },
-          // {
-          //   children: [
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610602',
-          //       regionName: '宝塔区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610621',
-          //       regionName: '延长县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610622',
-          //       regionName: '延川县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610623',
-          //       regionName: '子长县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610624',
-          //       regionName: '安塞县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610625',
-          //       regionName: '志丹县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610626',
-          //       regionName: '吴起县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610627',
-          //       regionName: '甘泉县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610628',
-          //       regionName: '富县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610629',
-          //       regionName: '洛川县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610630',
-          //       regionName: '宜川县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610631',
-          //       regionName: '黄龙县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610632',
-          //       regionName: '黄陵县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     }
-          //   ],
-          //   gradeNum: null,
-          //   haveScreeningNum: null,
-          //   level: 2,
-          //   regionId: '610600',
-          //   regionName: '延安市',
-          //   screeningNum: null,
-          //   stuCount: null
-          // },
-          // {
-          //   children: [
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610702',
-          //       regionName: '汉台区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610721',
-          //       regionName: '南郑县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610722',
-          //       regionName: '城固县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610723',
-          //       regionName: '洋县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610724',
-          //       regionName: '西乡县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610725',
-          //       regionName: '勉县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610726',
-          //       regionName: '宁强县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610727',
-          //       regionName: '略阳县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610728',
-          //       regionName: '镇巴县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610729',
-          //       regionName: '留坝县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610730',
-          //       regionName: '佛坪县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     }
-          //   ],
-          //   gradeNum: null,
-          //   haveScreeningNum: null,
-          //   level: 2,
-          //   regionId: '610700',
-          //   regionName: '汉中市',
-          //   screeningNum: null,
-          //   stuCount: null
-          // },
-          // {
-          //   children: [
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610802',
-          //       regionName: '榆阳区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610821',
-          //       regionName: '神木县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610822',
-          //       regionName: '府谷县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610823',
-          //       regionName: '横山县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610824',
-          //       regionName: '靖边县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610825',
-          //       regionName: '定边县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610826',
-          //       regionName: '绥德县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610827',
-          //       regionName: '米脂县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610828',
-          //       regionName: '佳县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610829',
-          //       regionName: '吴堡县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610830',
-          //       regionName: '清涧县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610831',
-          //       regionName: '子洲县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     }
-          //   ],
-          //   gradeNum: null,
-          //   haveScreeningNum: null,
-          //   level: 2,
-          //   regionId: '610800',
-          //   regionName: '榆林市',
-          //   screeningNum: null,
-          //   stuCount: null
-          // },
-          // {
-          //   children: [
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610902',
-          //       regionName: '汉滨区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610921',
-          //       regionName: '汉阴县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610922',
-          //       regionName: '石泉县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610923',
-          //       regionName: '宁陕县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610924',
-          //       regionName: '紫阳县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610925',
-          //       regionName: '岚皋县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610926',
-          //       regionName: '平利县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610927',
-          //       regionName: '镇坪县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610928',
-          //       regionName: '旬阳县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '610929',
-          //       regionName: '白河县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     }
-          //   ],
-          //   gradeNum: null,
-          //   haveScreeningNum: null,
-          //   level: 2,
-          //   regionId: '610900',
-          //   regionName: '安康市',
-          //   screeningNum: null,
-          //   stuCount: null
-          // },
-          // {
-          //   children: [
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '611002',
-          //       regionName: '商州区',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '611021',
-          //       regionName: '洛南县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '611022',
-          //       regionName: '丹凤县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '611023',
-          //       regionName: '商南县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '611024',
-          //       regionName: '山阳县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '611025',
-          //       regionName: '镇安县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     },
-          //     {
-          //       children: null,
-          //       gradeNum: null,
-          //       haveScreeningNum: null,
-          //       level: 3,
-          //       regionId: '611026',
-          //       regionName: '柞水县',
-          //       screeningNum: null,
-          //       stuCount: null
-          //     }
-          //   ],
-          //   gradeNum: null,
-          //   haveScreeningNum: null,
-          //   level: 2,
-          //   regionId: '611000',
-          //   regionName: '商洛市',
-          //   screeningNum: null,
-          //   stuCount: null
-          // }
         ],
         gradeNum: null,
         haveScreeningNum: null,
         level: 1,
         regionId: '610000',
-        regionName: '陕西省',
+        regionName: '安徽省',
         screeningNum: null,
         stuCount: null
       })
@@ -1208,7 +49,7 @@ export default [
         records: [
           {
             orgId: '1280739653607168',
-            orgName: '西安实验小学',
+            orgName: '‌合肥实验小学',
             prefx: '2'
           },
           {
@@ -1218,27 +59,27 @@ export default [
           },
           {
             orgId: '1280813813284608',
-            orgName: '西安市曲江第二小学',
+            orgName: '‌合肥市庐阳第二小学',
             prefx: '2'
           },
           {
             orgId: '1280814431477504',
-            orgName: '西安新知小学',
+            orgName: '‌合肥新知小学',
             prefx: '2'
           },
           {
             orgId: '1280818111389440',
-            orgName: '西安市新城区黄河小学',
+            orgName: '‌合肥市包河区黄河小学',
             prefx: '2'
           },
           {
             orgId: '1280829299023616',
-            orgName: '陕西师范大学附属中学',
+            orgName: '安徽师范大学附属中学',
             prefx: '3'
           },
           {
             orgId: '1280836240989952',
-            orgName: '西安爱知初级中学',
+            orgName: '‌合肥爱知初级中学',
             prefx: '3'
           },
           {
@@ -1278,177 +119,177 @@ export default [
           },
           {
             orgId: '1280840838307584',
-            orgName: '宝鸡中学',
+            orgName: '亳州中学',
             prefx: '3'
           },
           {
             orgId: '1280841731907328',
-            orgName: '咸阳中学',
+            orgName: '‌宿州中学',
             prefx: '3'
           },
           {
             orgId: '1280842054844160',
-            orgName: '咸阳市实验学校',
+            orgName: '‌宿州市实验学校',
             prefx: '3'
           },
           {
             orgId: '1280865665253120',
-            orgName: '咸阳市秦都区天王小学',
+            orgName: '‌宿州市秦都区天王小学',
             prefx: '2'
           },
           {
             orgId: '1280865904631552',
-            orgName: '咸阳市渭城区风轮小学',
+            orgName: '‌宿州市渭城区风轮小学',
             prefx: '2'
           },
           {
             orgId: '1280866553208576',
-            orgName: '渭南市临渭区渭南小学',
+            orgName: '蚌埠市临渭区蚌埠小学',
             prefx: '2'
           },
           {
             orgId: '1280866676858624',
-            orgName: '渭南市临渭区沋西小学',
+            orgName: '蚌埠市临渭区沋西小学',
             prefx: '2'
           },
           {
             orgId: '1280866902605568',
-            orgName: '渭南高新区第三小学',
+            orgName: '蚌埠高新区第三小学',
             prefx: '2'
           },
           {
             orgId: '1280902949986048',
-            orgName: '渭南中学',
+            orgName: '蚌埠中学',
             prefx: '3'
           },
           {
             orgId: '1280918381117184',
-            orgName: '渭南市瑞泉中学',
+            orgName: '蚌埠市瑞泉中学',
             prefx: '3'
           },
           {
             orgId: '1280921252585216',
-            orgName: '渭南高级中学',
+            orgName: '蚌埠高级中学',
             prefx: '3'
           },
           {
             orgId: '1280921850732288',
-            orgName: '陕西延安中学',
+            orgName: '安徽‌阜阳中学',
             prefx: '3'
           },
           {
             orgId: '1280922019979008',
-            orgName: '延安市第一中学',
+            orgName: '‌阜阳市第一中学',
             prefx: '3'
           },
           {
             orgId: '1280922140901120',
-            orgName: '延安市实验中学',
+            orgName: '‌阜阳市实验中学',
             prefx: '3'
           },
           {
             orgId: '1280922322083584',
-            orgName: '延安实验小学',
+            orgName: '‌阜阳实验小学',
             prefx: '2'
           },
           {
             orgId: '1280922434871040',
-            orgName: '延安市宝塔区中石油小学',
+            orgName: '‌阜阳市宝塔区中石油小学',
             prefx: '2'
           },
           {
             orgId: '1280922811383552',
-            orgName: '汉中市实验小学',
+            orgName: '淮南市实验小学',
             prefx: '2'
           },
           {
             orgId: '1280923447992064',
-            orgName: '汉中市东塔小学',
+            orgName: '淮南市东塔小学',
             prefx: '2'
           },
           {
             orgId: '1280923647221504',
-            orgName: '陕西省汉中中学',
+            orgName: '安徽省淮南中学',
             prefx: '3'
           },
           {
             orgId: '1280923850325760',
-            orgName: '汉中市汉台第二中学',
+            orgName: '淮南市汉台第二中学',
             prefx: '3'
           },
           {
             orgId: '1280924451667712',
-            orgName: '榆林市第一小学',
+            orgName: '滁州市第一小学',
             prefx: '2'
           },
           {
             orgId: '1280924624125696',
-            orgName: '榆林市第三小学',
+            orgName: '滁州市第三小学',
             prefx: '2'
           },
           {
             orgId: '1280924790824704',
-            orgName: '陕西省榆林中学',
+            orgName: '安徽省滁州中学',
             prefx: '3'
           },
           {
             orgId: '1280924966903552',
-            orgName: '榆林市第一中学',
+            orgName: '滁州市第一中学',
             prefx: '3'
           },
           {
             orgId: '1280925139074816',
-            orgName: '榆林市横山中学',
+            orgName: '滁州市横山中学',
             prefx: '3'
           },
           {
             orgId: '1280925515824896',
-            orgName: '陕西省安康中学',
+            orgName: '安徽省六安中学',
             prefx: '3'
           },
           {
             orgId: '1280925671718656',
-            orgName: '安康中学高新分校',
+            orgName: '六安中学高新分校',
             prefx: '3'
           },
           {
             orgId: '1280925899857664',
-            orgName: '安康职业技术学院附属小学',
+            orgName: '六安职业技术学院附属小学',
             prefx: '2'
           },
           {
             orgId: '1280926011129600',
-            orgName: '安康市第一小学',
+            orgName: '六安市第一小学',
             prefx: '2'
           },
           {
             orgId: '1280926377189120',
-            orgName: '商洛市小学',
+            orgName: '‌马鞍山市小学',
             prefx: '2'
           },
           {
             orgId: '1280926488502016',
-            orgName: '商洛市商州区第二小学',
+            orgName: '‌马鞍山市商州区第二小学',
             prefx: '2'
           },
           {
             orgId: '1280926711013120',
-            orgName: '陕西省商洛中学',
+            orgName: '安徽省‌马鞍山中学',
             prefx: '3'
           },
           {
             orgId: '1280927378177792',
-            orgName: '商洛市商州秦韵初级中学',
+            orgName: '‌马鞍山市商州秦韵初级中学',
             prefx: '3'
           },
           {
             orgId: '237181339265282048',
-            orgName: '陕西中医药大学第二附属医院',
+            orgName: '安徽中医药大学第二附属医院',
             prefx: ''
           },
           {
             orgId: '237206953598791680',
-            orgName: '陕西省咸阳市教育局',
+            orgName: '安徽省‌宿州市教育局',
             prefx: ''
           },
           {
@@ -1489,7 +330,7 @@ export default [
           planId: '1283048021704448',
           planMode: null,
           planModeLaber: '',
-          planName: '陕西省视力筛查计划',
+          planName: '安徽省视力筛查计划',
           planRange: null,
           planRangeLaber: null,
           planStatus: null,
@@ -1599,7 +440,7 @@ export default [
             myopiaMyopiaRate: 0
           }
         ],
-        name: '陕西省'
+        name: '安徽省'
       })
   },
   {
@@ -1715,7 +556,7 @@ export default [
             visionNum: 2524
           }
         ],
-        name: '陕西省'
+        name: '安徽省'
       })
   },
   {
@@ -4105,7 +2946,7 @@ export default [
             data: 19.75
           }
         ],
-        name: '陕西省'
+        name: '安徽省'
       })
   },
   {
@@ -4114,7 +2955,7 @@ export default [
     method: 'get',
     response: () =>
       resultSuccess({
-        city: '陕西省',
+        city: '安徽省',
         contactLensStdCount: '13053',
         correctMyopiaRate: 0.0525,
         correctMyopiaStdCount: '2973',
@@ -4603,7 +3444,7 @@ export default [
             myopiaStdCount: '3599',
             okLensStdCount: '1165',
             otherRate: 0,
-            region: '铜川市',
+            region: '‌淮北市',
             regionId: '610200',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7229,
@@ -4634,7 +3475,7 @@ export default [
             myopiaStdCount: '3561',
             okLensStdCount: '1077',
             otherRate: 0,
-            region: '汉中市',
+            region: '淮南市',
             regionId: '610700',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7034,
@@ -4665,7 +3506,7 @@ export default [
             myopiaStdCount: '4111',
             okLensStdCount: '1306',
             otherRate: 0,
-            region: '延安市',
+            region: '‌阜阳市',
             regionId: '610600',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7278,
@@ -4696,7 +3537,7 @@ export default [
             myopiaStdCount: '3575',
             okLensStdCount: '1163',
             otherRate: 0,
-            region: '安康市',
+            region: '六安市',
             regionId: '610900',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7292,
@@ -4727,7 +3568,7 @@ export default [
             myopiaStdCount: '5413',
             okLensStdCount: '1708',
             otherRate: 0,
-            region: '渭南市',
+            region: '蚌埠市',
             regionId: '610500',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7227,
@@ -4758,7 +3599,7 @@ export default [
             myopiaStdCount: '3598',
             okLensStdCount: '1122',
             otherRate: 0,
-            region: '宝鸡市',
+            region: '亳州市',
             regionId: '610300',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7192,
@@ -4789,7 +3630,7 @@ export default [
             myopiaStdCount: '4144',
             okLensStdCount: '1289',
             otherRate: 0,
-            region: '榆林市',
+            region: '滁州市',
             regionId: '610800',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7166,
@@ -4820,7 +3661,7 @@ export default [
             myopiaStdCount: '13446',
             okLensStdCount: '4141',
             otherRate: 0,
-            region: '商洛市',
+            region: '‌马鞍山市',
             regionId: '611000',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7159,
@@ -4851,7 +3692,7 @@ export default [
             myopiaStdCount: '10894',
             okLensStdCount: '3367',
             otherRate: 0,
-            region: '西安市',
+            region: '‌合肥市',
             regionId: '610100',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.7186,
@@ -4882,7 +3723,7 @@ export default [
             myopiaStdCount: '4265',
             okLensStdCount: '1316',
             otherRate: 0,
-            region: '咸阳市',
+            region: '‌宿州市',
             regionId: '610400',
             schoolMyopiaCorrectInfos: null,
             udMyopiaRate: 0.713,
@@ -4923,7 +3764,7 @@ export default [
             hyperopiaReservesEnoughNum: '431',
             hyperopiaReservesNotEnough: '28',
             hyperopiaReservesNotEnoughNum: '29',
-            region: '商洛市',
+            region: '‌马鞍山市',
             regionId: '611000'
           },
           {
@@ -4931,7 +3772,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '榆林市',
+            region: '滁州市',
             regionId: '610800'
           },
           {
@@ -4939,7 +3780,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '渭南市',
+            region: '蚌埠市',
             regionId: '610500'
           },
           {
@@ -4947,7 +3788,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '汉中市',
+            region: '淮南市',
             regionId: '610700'
           },
           {
@@ -4955,7 +3796,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '安康市',
+            region: '六安市',
             regionId: '610900'
           },
           {
@@ -4963,7 +3804,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '铜川市',
+            region: '‌淮北市',
             regionId: '610200'
           },
           {
@@ -4971,7 +3812,7 @@ export default [
             hyperopiaReservesEnoughNum: '71',
             hyperopiaReservesNotEnough: '3',
             hyperopiaReservesNotEnoughNum: '3',
-            region: '咸阳市',
+            region: '‌宿州市',
             regionId: '610400'
           },
           {
@@ -4979,7 +3820,7 @@ export default [
             hyperopiaReservesEnoughNum: '2',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '西安市',
+            region: '‌合肥市',
             regionId: '610100'
           },
           {
@@ -4987,7 +3828,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '宝鸡市',
+            region: '亳州市',
             regionId: '610300'
           },
           {
@@ -4995,7 +3836,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '延安市',
+            region: '‌阜阳市',
             regionId: '610600'
           }
         ],
@@ -5119,7 +3960,7 @@ export default [
       resultSuccess({
         astigmatismRate: 0,
         astigmatismStdCount: '0',
-        city: '陕西省',
+        city: '安徽省',
         cityId: '610000',
         hyperopiaRate: 0.2935,
         hyperopiaStdCount: '20886',
@@ -5133,7 +3974,7 @@ export default [
             hyperopiaStdCount: '1298',
             myopiaRate: 0.7997,
             myopiaStdCount: '3599',
-            region: '铜川市',
+            region: '‌淮北市',
             regionId: '610200',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.93,
@@ -5146,7 +3987,7 @@ export default [
             hyperopiaStdCount: '1363',
             myopiaRate: 0.7913,
             myopiaStdCount: '3561',
-            region: '汉中市',
+            region: '淮南市',
             regionId: '610700',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9346,
@@ -5159,7 +4000,7 @@ export default [
             hyperopiaStdCount: '1572',
             myopiaRate: 0.783,
             myopiaStdCount: '4111',
-            region: '延安市',
+            region: '‌阜阳市',
             regionId: '610600',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9371,
@@ -5172,7 +4013,7 @@ export default [
             hyperopiaStdCount: '1282',
             myopiaRate: 0.7944,
             myopiaStdCount: '3575',
-            region: '安康市',
+            region: '六安市',
             regionId: '610900',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9277,
@@ -5185,7 +4026,7 @@ export default [
             hyperopiaStdCount: '1946',
             myopiaRate: 0.8019,
             myopiaStdCount: '5413',
-            region: '渭南市',
+            region: '蚌埠市',
             regionId: '610500',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.934,
@@ -5198,7 +4039,7 @@ export default [
             hyperopiaStdCount: '1294',
             myopiaRate: 0.7995,
             myopiaStdCount: '3598',
-            region: '宝鸡市',
+            region: '亳州市',
             regionId: '610300',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9335,
@@ -5211,7 +4052,7 @@ export default [
             hyperopiaStdCount: '1540',
             myopiaRate: 0.7893,
             myopiaStdCount: '4144',
-            region: '榆林市',
+            region: '滁州市',
             regionId: '610800',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9245,
@@ -5224,7 +4065,7 @@ export default [
             hyperopiaStdCount: '4972',
             myopiaRate: 0.7965,
             myopiaStdCount: '13446',
-            region: '商洛市',
+            region: '‌马鞍山市',
             regionId: '611000',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9327,
@@ -5237,7 +4078,7 @@ export default [
             hyperopiaStdCount: '4015',
             myopiaRate: 0.7999,
             myopiaStdCount: '10894',
-            region: '西安市',
+            region: '‌合肥市',
             regionId: '610100',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9333,
@@ -5250,7 +4091,7 @@ export default [
             hyperopiaStdCount: '1604',
             myopiaRate: 0.7892,
             myopiaStdCount: '4265',
-            region: '咸阳市',
+            region: '‌宿州市',
             regionId: '610400',
             schoolPrefixMyopiaInfoTypes: null,
             totalRate: 0.9263,
@@ -5355,7 +4196,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '12177',
             poorVisionRate: 0.9557,
-            region: '商洛市',
+            region: '‌马鞍山市',
             regionId: '611000'
           },
           {
@@ -5370,7 +4211,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '3732',
             poorVisionRate: 0.9421,
-            region: '榆林市',
+            region: '滁州市',
             regionId: '610800'
           },
           {
@@ -5385,7 +4226,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '4806',
             poorVisionRate: 0.9531,
-            region: '渭南市',
+            region: '蚌埠市',
             regionId: '610500'
           },
           {
@@ -5400,7 +4241,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '3273',
             poorVisionRate: 0.9561,
-            region: '汉中市',
+            region: '淮南市',
             regionId: '610700'
           },
           {
@@ -5415,7 +4256,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '3171',
             poorVisionRate: 0.9502,
-            region: '安康市',
+            region: '六安市',
             regionId: '610900'
           },
           {
@@ -5430,7 +4271,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '3182',
             poorVisionRate: 0.9541,
-            region: '铜川市',
+            region: '‌淮北市',
             regionId: '610200'
           },
           {
@@ -5445,7 +4286,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '3878',
             poorVisionRate: 0.9486,
-            region: '咸阳市',
+            region: '‌宿州市',
             regionId: '610400'
           },
           {
@@ -5460,7 +4301,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '9794',
             poorVisionRate: 0.9554,
-            region: '西安市',
+            region: '‌合肥市',
             regionId: '610100'
           },
           {
@@ -5475,7 +4316,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '3213',
             poorVisionRate: 0.9511,
-            region: '宝鸡市',
+            region: '亳州市',
             regionId: '610300'
           },
           {
@@ -5490,7 +4331,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '3786',
             poorVisionRate: 0.9599,
-            region: '延安市',
+            region: '‌阜阳市',
             regionId: '610600'
           },
           {

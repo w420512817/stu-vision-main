@@ -163,7 +163,7 @@ function initSchools() {
     size: 50,
     planRange: formValue.areaRange
   }).then(d => {
-    state.schoolList = d.records;
+    state.schoolList = d.list;
   });
 }
 function initPlans() {

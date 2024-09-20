@@ -62,7 +62,7 @@ export default [
           universityWoManStdCount: '0',
           woManStdCount: '2571'
         },
-        region: '新城区'
+        region: '庐阳区'
       });
     }
   },
@@ -79,7 +79,7 @@ export default [
         manHighMyopiaStdCount: '1668',
         myopiaRate: 0.7969,
         myopiaStdCount: '4032',
-        region: '新城区',
+        region: '庐阳区',
         sexMyopiaTypeInfo: [
           {
             manMyopiaRate: 0.8006,
@@ -198,21 +198,21 @@ export default [
         messageList: [
           {
             highMaxRegionMyopiaRate: 0.6772,
-            highMaxRegionName: '西安市新城区黄河小学',
+            highMaxRegionName: '‌合肥市庐阳区黄河小学',
             highMinRegionMyopiaRate: 0.6706,
-            highMinRegionName: '西安实验小学',
+            highMinRegionName: '‌合肥实验小学',
             highMyopiaRate: '0.6732',
             highMyopiaStdCount: 3406,
             maxRegionMyopiaRate: 0.8029,
-            maxRegionName: '西安市新城区黄河小学',
+            maxRegionName: '‌合肥市庐阳区黄河小学',
             minRegionMyopiaRate: 0.793,
-            minRegionName: '西安实验小学',
+            minRegionName: '‌合肥实验小学',
             myopiaRate: '0.7969',
             myopiaStdCount: 4032,
             prefxName: '小学'
           }
         ],
-        name: '新城区',
+        name: '庐阳区',
         womanList: [
           {
             effectiveStdCount: '2571',
@@ -254,7 +254,7 @@ export default [
         areaMyopiaInfoList: [
           {
             areaId: '610104',
-            areaName: '莲湖区',
+            areaName: '瑶海区',
             highMyopiaRate: 0.6828,
             highMyopiaStdCount: '674',
             manHighMyopiaRate: 0.6493,
@@ -273,7 +273,7 @@ export default [
           },
           {
             areaId: '610116',
-            areaName: '长安区',
+            areaName: '庐江区',
             highMyopiaRate: 0.6949,
             highMyopiaStdCount: '82',
             manHighMyopiaRate: 0.6785,
@@ -292,7 +292,7 @@ export default [
           },
           {
             areaId: '610115',
-            areaName: '临潼区',
+            areaName: '长丰区',
             highMyopiaRate: 0.6962,
             highMyopiaStdCount: '337',
             manHighMyopiaRate: 0.7085,
@@ -311,7 +311,7 @@ export default [
           },
           {
             areaId: '610112',
-            areaName: '未央区',
+            areaName: '包河区',
             highMyopiaRate: 0.6721,
             highMyopiaStdCount: '654',
             manHighMyopiaRate: 0.6816,
@@ -330,7 +330,7 @@ export default [
           },
           {
             areaId: '610113',
-            areaName: '雁塔区',
+            areaName: '肥东区',
             highMyopiaRate: 0.6818,
             highMyopiaStdCount: '1018',
             manHighMyopiaRate: 0.6781,
@@ -349,7 +349,7 @@ export default [
           },
           {
             areaId: '610102',
-            areaName: '新城区',
+            areaName: '庐阳区',
             highMyopiaRate: 0.6732,
             highMyopiaStdCount: '3406',
             manHighMyopiaRate: 0.6704,
@@ -386,7 +386,7 @@ export default [
             womanStdCount: '4652'
           }
         ],
-        areaName: '西安市',
+        areaName: '‌合肥市',
         gradeMyopiaInfoList: [
           {
             gradeId: '921830381248271',
@@ -566,8 +566,8 @@ export default [
         manMyopiaRate: 0.8007,
         manMyopiaStdCount: '3573',
         manStdCount: '4462',
-        maxHighMyopiaRateDiffArea: '莲湖区',
-        maxMyopiaRateDiffArea: '临潼区',
+        maxHighMyopiaRateDiffArea: '瑶海区',
+        maxMyopiaRateDiffArea: '长丰区',
         myopiaDiffRate: 0.0264,
         schoolTypeMyopiaRateGrowthList: [
           {
@@ -731,7 +731,7 @@ export default [
           townMyopiaRate: 0,
           townStudentCount: null
         },
-        name: '新城区'
+        name: '庐阳区'
       };
       return resultSuccess(data);
     }
@@ -769,7 +769,7 @@ export default [
             schoolTypeName: '常规'
           }
         ],
-        name: '新城区'
+        name: '庐阳区'
       };
       return resultSuccess(data);
     }
@@ -1040,7 +1040,7 @@ export default [
         myopiaStdCount: '5970',
         okLensStdCount: '1843',
         otherRate: 0,
-        region: '新城区',
+        region: '庐阳区',
         regionId: '610102',
         schoolMyopiaCorrectInfos: [
           {
@@ -1137,7 +1137,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '未央区',
+            region: '包河区',
             regionId: '610112'
           },
           {
@@ -1145,7 +1145,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '新城区',
+            region: '庐阳区',
             regionId: '610102'
           },
           {
@@ -1153,7 +1153,7 @@ export default [
             hyperopiaReservesEnoughNum: '2',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '长安区',
+            region: '庐江区',
             regionId: '610116'
           },
           {
@@ -1161,7 +1161,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '雁塔区',
+            region: '肥东区',
             regionId: '610113'
           },
           {
@@ -1169,7 +1169,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '莲湖区',
+            region: '瑶海区',
             regionId: '610104'
           },
           {
@@ -1177,7 +1177,7 @@ export default [
             hyperopiaReservesEnoughNum: '0',
             hyperopiaReservesNotEnough: '0',
             hyperopiaReservesNotEnoughNum: '0',
-            region: '临潼区',
+            region: '长丰区',
             regionId: '610115'
           }
         ],
@@ -1334,7 +1334,7 @@ export default [
             myopiaMyopiaRate: 0.8066
           }
         ],
-        name: '新城区'
+        name: '庐阳区'
       };
       return resultSuccess(data);
     }
@@ -1452,7 +1452,7 @@ export default [
             visionNum: 269
           }
         ],
-        name: '新城区'
+        name: '庐阳区'
       };
       return resultSuccess(data);
     }
@@ -1476,7 +1476,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '1113',
             poorVisionRate: 0.9628,
-            region: '未央区',
+            region: '包河区',
             regionId: '610112'
           },
           {
@@ -1491,7 +1491,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '5408',
             poorVisionRate: 0.9559,
-            region: '新城区',
+            region: '庐阳区',
             regionId: '610102'
           },
           {
@@ -1506,7 +1506,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '84',
             poorVisionRate: 0.9032,
-            region: '长安区',
+            region: '庐江区',
             regionId: '610116'
           },
           {
@@ -1521,7 +1521,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '1574',
             poorVisionRate: 0.955,
-            region: '雁塔区',
+            region: '肥东区',
             regionId: '610113'
           },
           {
@@ -1536,7 +1536,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '1092',
             poorVisionRate: 0.9495,
-            region: '莲湖区',
+            region: '瑶海区',
             regionId: '610104'
           },
           {
@@ -1551,7 +1551,7 @@ export default [
             otherPoorVisionRate: 0,
             poorVisionCount: '523',
             poorVisionRate: 0.9561,
-            region: '临潼区',
+            region: '长丰区',
             regionId: '610115'
           },
           {
@@ -3941,7 +3941,7 @@ export default [
             data: 19.75
           }
         ],
-        name: '新城区'
+        name: '庐阳区'
       };
       return resultSuccess(data);
     }
@@ -3958,7 +3958,7 @@ export default [
         hyperopiaStdCount: '2236',
         myopiaRate: 0.796,
         myopiaStdCount: '5970',
-        region: '新城区',
+        region: '庐阳区',
         regionId: '610102',
         schoolPrefixMyopiaInfoTypes: [
           {
@@ -4112,7 +4112,7 @@ export default [
           myopiaRate: 0.793,
           myopiaStdCount: '2410',
           schoolId: '1280739653607168',
-          schoolName: '西安实验小学',
+          schoolName: '‌合肥实验小学',
           schoolPrefix: '小学',
           womanHighMyopiaRate: 0.6848,
           womanHighMyopiaStdCount: '1054',
@@ -4129,7 +4129,7 @@ export default [
           myopiaRate: 0.8029,
           myopiaStdCount: '1622',
           schoolId: '1280818111389440',
-          schoolName: '西安市新城区黄河小学',
+          schoolName: '‌合肥市庐阳区黄河小学',
           schoolPrefix: '小学',
           womanHighMyopiaRate: 0.6627,
           womanHighMyopiaStdCount: '684',
@@ -4157,7 +4157,7 @@ export default [
           manUnMyopiaRate: 0.2476,
           manUnMyopiaStdCount: '291',
           schoolId: '1280739653607168',
-          schoolName: '西安实验小学',
+          schoolName: '‌合肥实验小学',
           schoolPrefix: '小学',
           udMyopiaRate: 0.7255,
           udMyopiaStdCount: '2586',
@@ -4182,7 +4182,7 @@ export default [
           manUnMyopiaRate: 0.2276,
           manUnMyopiaStdCount: '186',
           schoolId: '1280818111389440',
-          schoolName: '西安市新城区黄河小学',
+          schoolName: '‌合肥市庐阳区黄河小学',
           schoolPrefix: '小学',
           udMyopiaRate: 0.7144,
           udMyopiaStdCount: '1719',
@@ -4214,7 +4214,7 @@ export default [
           myopiaRate: 0.792,
           myopiaStdCount: '3564',
           schoolId: '1280739653607168',
-          schoolName: '西安实验小学',
+          schoolName: '‌合肥实验小学',
           schoolPrefix: '小学',
           totalRate: 0.9337,
           totalStdCount: '4202'
@@ -4227,7 +4227,7 @@ export default [
           myopiaRate: 0.802,
           myopiaStdCount: '2406',
           schoolId: '1280818111389440',
-          schoolName: '西安市新城区黄河小学',
+          schoolName: '‌合肥市庐阳区黄河小学',
           schoolPrefix: '小学',
           totalRate: 0.9283,
           totalStdCount: '2785'
@@ -4257,7 +4257,7 @@ export default [
           prefix: 2,
           prefixName: '小学',
           schoolId: '1280739653607168',
-          schoolName: '西安实验小学'
+          schoolName: '‌合肥实验小学'
         },
         {
           eyeSightCheckCount: '2281',
@@ -4274,7 +4274,7 @@ export default [
           prefix: 2,
           prefixName: '小学',
           schoolId: '1280818111389440',
-          schoolName: '西安市新城区黄河小学'
+          schoolName: '‌合肥市庐阳区黄河小学'
         }
       ];
       return resultSuccess(data);

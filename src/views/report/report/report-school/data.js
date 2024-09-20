@@ -93,9 +93,9 @@ export const reportIndexs = reactive([
 ]);
 
 export const reportTypes = [
-  { label: '学校报告', value: '3', show: hasPermission(9038) },
-  { label: '年级报告', value: '4', show: hasPermission(9041) },
-  { label: '班级报告', value: '5', show: hasPermission(9044) }
+  { label: '学校报告', value: '3', show: true },
+  { label: '年级报告', value: '4', show: true },
+  { label: '班级报告', value: '5', show: true }
 ];
 export const areas = [
   {
