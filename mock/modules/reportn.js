@@ -1522,105 +1522,77 @@ export default [
       resultSuccess({
         dataList: [
           {
-            age: '9岁',
-            highMyopiaCount: '971',
-            highMyopiaMyopiaRate: 0.6794,
-            myopiaCount: '1129',
-            myopiaMyopiaRate: 0.79
-          },
-          {
-            age: '10岁',
-            highMyopiaCount: '1432',
-            highMyopiaMyopiaRate: 0.6904,
-            myopiaCount: '1677',
-            myopiaMyopiaRate: 0.8085
-          },
-          {
-            age: '11岁',
-            highMyopiaCount: '1342',
-            highMyopiaMyopiaRate: 0.691,
-            myopiaCount: '1551',
-            myopiaMyopiaRate: 0.7986
-          },
-          {
-            age: '12岁',
-            highMyopiaCount: '1169',
-            highMyopiaMyopiaRate: 0.6958,
-            myopiaCount: '1342',
-            myopiaMyopiaRate: 0.7988
-          },
-          {
-            age: '13岁',
+            age: '6岁',
             highMyopiaCount: '452',
             highMyopiaMyopiaRate: 0.6706,
             myopiaCount: '538',
             myopiaMyopiaRate: 0.7982
           },
           {
-            age: '14岁',
+            age: '7岁',
             highMyopiaCount: '3142',
             highMyopiaMyopiaRate: 0.671,
             myopiaCount: '3729',
             myopiaMyopiaRate: 0.7964
           },
           {
-            age: '15岁',
+            age: '8岁',
             highMyopiaCount: '3471',
             highMyopiaMyopiaRate: 0.6702,
             myopiaCount: '4105',
             myopiaMyopiaRate: 0.7926
           },
           {
-            age: '16岁',
+            age: '9岁',
             highMyopiaCount: '3246',
             highMyopiaMyopiaRate: 0.6754,
             myopiaCount: '3808',
             myopiaMyopiaRate: 0.7923
           },
           {
-            age: '17岁',
+            age: '10岁',
             highMyopiaCount: '3108',
             highMyopiaMyopiaRate: 0.6803,
             myopiaCount: '3630',
             myopiaMyopiaRate: 0.7946
           },
           {
-            age: '18岁',
+            age: '11岁',
             highMyopiaCount: '3043',
             highMyopiaMyopiaRate: 0.6721,
             myopiaCount: '3560',
             myopiaMyopiaRate: 0.7863
           },
           {
-            age: '19岁',
+            age: '12岁',
             highMyopiaCount: '3268',
             highMyopiaMyopiaRate: 0.6887,
             myopiaCount: '3797',
             myopiaMyopiaRate: 0.8002
           },
           {
-            age: '20岁',
+            age: '13岁',
             highMyopiaCount: '3091',
             highMyopiaMyopiaRate: 0.6898,
             myopiaCount: '3581',
             myopiaMyopiaRate: 0.7991
           },
           {
-            age: '21岁',
+            age: '14岁',
             highMyopiaCount: '3091',
             highMyopiaMyopiaRate: 0.6661,
             myopiaCount: '3695',
             myopiaMyopiaRate: 0.7963
           },
           {
-            age: '22岁',
+            age: '15岁',
             highMyopiaCount: '3223',
             highMyopiaMyopiaRate: 0.6931,
             myopiaCount: '3741',
             myopiaMyopiaRate: 0.8045
           },
           {
-            age: '36岁',
+            age: '16岁',
             highMyopiaCount: '0',
             highMyopiaMyopiaRate: 0,
             myopiaCount: '0',

@@ -2570,41 +2570,6 @@ export default [
             highMyopiaMyopiaRate: 0.681,
             myopiaCount: '820',
             myopiaMyopiaRate: 0.8224
-          },
-          {
-            age: '18岁',
-            highMyopiaCount: '720',
-            highMyopiaMyopiaRate: 0.6997,
-            myopiaCount: '829',
-            myopiaMyopiaRate: 0.8056
-          },
-          {
-            age: '19岁',
-            highMyopiaCount: '715',
-            highMyopiaMyopiaRate: 0.6989,
-            myopiaCount: '824',
-            myopiaMyopiaRate: 0.8054
-          },
-          {
-            age: '20岁',
-            highMyopiaCount: '636',
-            highMyopiaMyopiaRate: 0.686,
-            myopiaCount: '738',
-            myopiaMyopiaRate: 0.7961
-          },
-          {
-            age: '21岁',
-            highMyopiaCount: '663',
-            highMyopiaMyopiaRate: 0.6744,
-            myopiaCount: '787',
-            myopiaMyopiaRate: 0.8006
-          },
-          {
-            age: '22岁',
-            highMyopiaCount: '686',
-            highMyopiaMyopiaRate: 0.7007,
-            myopiaCount: '803',
-            myopiaMyopiaRate: 0.8202
           }
         ],
         name: '西安市'

@@ -1271,63 +1271,63 @@ export default [
       let data = {
         dataList: [
           {
-            age: '14岁',
+            age: '8岁',
             highMyopiaCount: '371',
             highMyopiaMyopiaRate: 0.644,
             myopiaCount: '442',
             myopiaMyopiaRate: 0.7673
           },
           {
-            age: '15岁',
+            age: '9岁',
             highMyopiaCount: '371',
             highMyopiaMyopiaRate: 0.6463,
             myopiaCount: '463',
             myopiaMyopiaRate: 0.8066
           },
           {
-            age: '16岁',
+            age: '10岁',
             highMyopiaCount: '378',
             highMyopiaMyopiaRate: 0.6417,
             myopiaCount: '446',
             myopiaMyopiaRate: 0.7572
           },
           {
-            age: '17岁',
+            age: '11岁',
             highMyopiaCount: '368',
             highMyopiaMyopiaRate: 0.6917,
             myopiaCount: '440',
             myopiaMyopiaRate: 0.827
           },
           {
-            age: '18岁',
+            age: '12岁',
             highMyopiaCount: '408',
             highMyopiaMyopiaRate: 0.6986,
             myopiaCount: '473',
             myopiaMyopiaRate: 0.8099
           },
           {
-            age: '19岁',
+            age: '13岁',
             highMyopiaCount: '387',
             highMyopiaMyopiaRate: 0.6813,
             myopiaCount: '450',
             myopiaMyopiaRate: 0.7922
           },
           {
-            age: '20岁',
+            age: '14岁',
             highMyopiaCount: '358',
             highMyopiaMyopiaRate: 0.6871,
             myopiaCount: '419',
             myopiaMyopiaRate: 0.8042
           },
           {
-            age: '21岁',
+            age: '15岁',
             highMyopiaCount: '389',
             highMyopiaMyopiaRate: 0.68,
             myopiaCount: '461',
             myopiaMyopiaRate: 0.8059
           },
           {
-            age: '22岁',
+            age: '16岁',
             highMyopiaCount: '376',
             highMyopiaMyopiaRate: 0.6924,
             myopiaCount: '438',
