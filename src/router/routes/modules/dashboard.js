@@ -8,6 +8,7 @@ const dashboard = {
     title: '首页',
     icon: 'icon-park-outline:workbench',
     hideChildrenInMenu: true,
+    hideMenu: true,
     orderNo: 1
   },
   children: [
