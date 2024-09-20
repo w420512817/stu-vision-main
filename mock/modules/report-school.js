@@ -6015,10 +6015,3 @@ export default [
       })
   }
 ];
-
-({
-  url: '/basic-api/eyesight/report/class/',
-  timeout: 100,
-  method: 'get',
-  response: () => resultSuccess()
-});
