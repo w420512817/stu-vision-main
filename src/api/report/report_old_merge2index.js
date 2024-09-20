@@ -11,7 +11,7 @@ import { isDevMode } from '@common/utils/common/env';
 // const basic_busy3 = isDevMode() ? '/business-gov' : '/business-gov';
 
 const eyesight = isDevMode() ? '/eyesight-qyx' : '/eyesight';
-const org = isDevMode() ? '/org-qyx' : '/org';
+const org = isDevMode() ? '/org' : '/org';
 const base_screen = isDevMode() ? '/base-screen-qyx' : '/base-screen';
 
 const Api = {
