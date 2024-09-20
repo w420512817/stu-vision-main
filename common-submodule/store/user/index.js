@@ -19,7 +19,8 @@ const { VITE_APP_KEY } = import.meta.env;
 export const useUserStore = defineStore('user-store', {
   state: () => ({
     userInfo: {
-      orgType: 30
+      areaId: 610000,
+      orgType: 10
     },
     customerId: ls.get(CUSTOMERID_KEY) || import.meta.env.VITE_APP_CUSTOMER_ID,
     token: getToken(),
