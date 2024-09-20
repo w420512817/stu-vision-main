@@ -82,7 +82,17 @@ let chartData = reactive({
   columns: ['data', 'dpSph', 'eqDpSph'],
   rows: []
 });
-let myExtend = { ...bar_num };
+let myExtend = {
+  ...bar_num,
+  xAxis: {
+    show: true,
+    boundaryGap: '3%', // 坐标轴两边留白策略
+    splitLine: {
+      show: false
+    },
+    axisLabel: { interval: 'auto' }
+  }
+};
 if (areaLevel == 4) {
   getDiopterSituation_s({
     planId,
