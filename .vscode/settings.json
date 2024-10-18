@@ -8,7 +8,7 @@
   "editor.quickSuggestions": {
     "strings": true
   },
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "off",
   "files.associations": {
     "*.env.*": "dotenv"
   },

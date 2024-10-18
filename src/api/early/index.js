@@ -1,7 +1,7 @@
 import { defHttp } from '@common/utils/http';
 import { isDevMode } from '@common/utils/common/env';
 
-const basic = isDevMode() ? '/eyesight-qyx' : '/eyesight';
+const basic = isDevMode() ? '/eyesight' : '/eyesight';
 
 // 视力预警
 const Api = {

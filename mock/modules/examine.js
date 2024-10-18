@@ -1,8 +1,8 @@
 /*
  * @Author: wjq-work\wjq wjq4416@163.com
  * @Date: 2024-09-09 13:00:59
- * @LastEditors: wjq-work\wjq
- * @LastEditTime: 2024-09-19 18:04:26
+ * @LastEditors: wangjq
+ * @LastEditTime: 2024-10-02 01:13:15
  */
 import { resultPageSuccess, resultSuccess } from '../utils';
 // import { Random } from 'mockjs';
